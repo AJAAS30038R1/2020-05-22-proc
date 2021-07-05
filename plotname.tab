@@ -1,0 +1,13 @@
+##id,         sptypesim,     first   nframe   namefile,              type      sptype temp    stdname,   rah ram ras decg decm decs       airmass   dit coadd AB   flat             arc                 date
+MZM76           spectra        00001     10     MZM76.fits            target    K3.5 1        HIP95419     18 58 53.83   +05 00 36.82        1.28  19.92   1  5   flat11-15.fits   wavecal16-16.fits     2020-05-22
+HIP95419        spectra        00019     10     HIP95419.fits         STD       A0   9850     HIP90967-1   19 24 35.55   +10 29 30.40        1.25  199.7   1  5   flat11-15.fits   wavecal16-16.fits     2020-05-22
+RSGC4-S5        spectra        00029     10     RSGC4-S5.fits         target    K5   1        HIP90967-1   18 34 51.33   -07 13 16.33        1.14  59.77   1  5   flat39-43.fits   wavecal44-44.fits     2020-05-22
+HIP90967-1      spectra        00045     10     HIP90967-1.fits       STD       B9V  10600    HIP95419     18 33 22.71   -05 54 42.19        1.11  44.95   1  5   flat39-43.fits   wavecal44-44.fits     2020-05-22
+MMF2014-44      spectra        00055     10     MMF2014-44.fits       target    K2   1        HIP90967-1   18 33 37.80   -09 21 38.23        1.15  59.77   1  5   flat65-69.fits   wavecal70-70.fits     2020-05-22
+RSGC1-F13       spectra        00071     10     RSGC1-F13.fits        target    K2   1        HIP90967-1   18 37 58.90   -06 52 32.12        1.13  59.77   1  5   flat65-69.fits   wavecal70-70.fits     2020-05-22
+RSGC2-17        spectra        00081     10     RSGC2-17.fits         target    K3   1        HIP90967-2   18 39 15.05   -06 05 19.26        1.15  44.95   1  5   flat91-95.fits   wavecal96-96.fits     2020-05-22
+HIP90967-2      spectra        00097     10     HIP90967-2.fits       STD       B9V  10600    HIP90271     18 33 22.71   -05 54 42.19        1.19  17.61   1  5   flat91-95.fits   wavecal96-96.fits     2020-05-22
+2MASSJ18434977  spectra        00107     10     2MASSJ18434977.fits   target    K2   1        HIP90967-2   18 43 49.78   -04 34 25.58        1.18  59.77   1  5   flat91-95.fits   wavecal96-96.fits     2020-05-22
+RSGC3-S6        spectra        00117     10     RSGC3-S6.fits         target    K5   1        HIP90271     18 45 19.39   -03 24 48.32        1.22  64.87   1  5   flat127-131.fits wavecal132-132.fits   2020-05-22
+HIP90271        spectra        00133     10     HIP90271.fits         STD       B8V  12200    HIP90967-2   18 25 08.87   +05 05 04.45        1.28  39.85   1  5   flat153-157.fits wavecal158-158.fits   2020-05-22 
+2MASSJ18424927  spectra        00143     10     2MASSJ18424927.fits   target    K1   1        HIP90271     18 42 49.27   -04 45 09.69        1.37  89.89   1  5   flat153-157.fits wavecal158-158.fits   2020-05-22
